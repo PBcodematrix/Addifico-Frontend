@@ -19,7 +19,7 @@ const WhyUs = () => {
             }
         </div>
         </div>
-        <div className="absolute w-full h-full z-0 ">
+        <div className="absolute w-full h-full z-0 pointer-events-none ">
         <img src="https://assets-global.website-files.com/63793925c7db23ce040b0824/64ef089c7513babb5e53bc6c_Meeesh2.jpg"
           className="w-full h-[140%] absolute left-[-63%] -bottom-full rotate-[-24deg] opacity-[0.6]"
         />
